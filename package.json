@@ -1,0 +1,7 @@
+{
+  "name": "clean-subtitles",
+  "type": "module",
+  "dependencies": {
+    "youtube-transcript": "1.2.1"
+  }
+}
