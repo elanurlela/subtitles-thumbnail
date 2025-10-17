@@ -1,5 +1,6 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/subtitles.js": { "runtime": "nodejs20.x" }
+    "api/**/*.js": { "runtime": "nodejs22.x" }
   }
 }
